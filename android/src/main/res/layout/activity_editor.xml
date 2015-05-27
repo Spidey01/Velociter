@@ -29,7 +29,7 @@
                     android:layout_height="match_parent"
                     tools:context="${relativePackage}.${activityClass}">
 
-        <EditText
+        <com.spidey01.velociter.android.EditorWidget
             android:id="@+id/editor"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
